@@ -37,6 +37,3 @@ next-env.d.ts
 
 #ide jetbrains
 /.idea
-
-#note
-note.txt
